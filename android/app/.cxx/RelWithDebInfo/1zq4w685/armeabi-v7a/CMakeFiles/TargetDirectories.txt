@@ -1,0 +1,2 @@
+C:/Users/janan/online_bookstore/android/app/.cxx/RelWithDebInfo/1zq4w685/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/janan/online_bookstore/android/app/.cxx/RelWithDebInfo/1zq4w685/armeabi-v7a/CMakeFiles/rebuild_cache.dir
